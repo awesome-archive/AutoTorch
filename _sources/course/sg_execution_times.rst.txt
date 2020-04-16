@@ -1,0 +1,12 @@
+
+:orphan:
+
+.. _sphx_glr_course_sg_execution_times:
+
+Computation times
+=================
+**01:22.764** total execution time for **course** files:
+
+- **01:19.930**: :ref:`sphx_glr_course_beginer_torch.py` (``beginer_torch.py``)
+- **00:02.717**: :ref:`sphx_glr_course_hpo_algorithms.py` (``hpo_algorithms.py``)
+- **00:00.117**: :ref:`sphx_glr_course_search_space.py` (``search_space.py``)
